@@ -10,7 +10,7 @@ UVa 16fall CS6501-004 Natural Language Processing
 ``Theano``,
 ``Lasagne``,
 ``pandas``,
-``TensorFlow
+``TensorFlow``,
 ``numpy``,
 ``scikit learn``
 
