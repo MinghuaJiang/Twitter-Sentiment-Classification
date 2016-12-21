@@ -7,9 +7,10 @@ UVa 16fall CS6501-004 Natural Language Processing
 ``python2.7`` required.
 
 ###model
-``theano``,
-``leasage``,
+``Theano``,
+``Lasagne``,
 ``pandas``,
+``TensorFlow
 ``numpy``,
 ``scikit learn``
 
